@@ -2,6 +2,11 @@
 
 > Razorpay AI Buildathon — Track 2: AI Risk Manager
 
+### 🚀 Live Demo
+[https://razorpay-buildathon-sentinelpay-1.onrender.com](https://razorpay-buildathon-sentinelpay-1.onrender.com)
+
+---
+
 A lightweight, explainable ML system — served through a React web frontend and a FastAPI backend — that scores payment transactions for fraud risk and recommends **APPROVE / REVIEW / DECLINE** decisions, backed by measurable business-cost trade-off analysis.
 
 ## Problem
