@@ -91,7 +91,17 @@ Open http://localhost:5173 in your browser.
 
 ## Screenshots
 
-*(Add screenshots of the running application here)*
+<p align="center">
+  <img src="screenshots/dashboard.jpg" alt="SentinelPay Dashboard Overview" width="800"/>
+</p>
+
+<p align="center">
+  <img src="screenshots/businesscost.jpg" alt="Business Cost Analysis" width="800"/>
+</p>
+
+<p align="center">
+  <img src="screenshots/audit%20log.jpg" alt="Transaction Audit Log" width="800"/>
+</p>
 
 ## Limitations
 
