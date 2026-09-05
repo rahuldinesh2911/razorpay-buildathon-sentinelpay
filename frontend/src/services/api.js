@@ -1,4 +1,6 @@
-const API_BASE = "http://127.0.0.1:8000";
+const API_BASE =
+  import.meta.env.VITE_API_URL ||
+  "https://razorpay-buildathon-sentinelpay.onrender.com";
 
 export async function analyzeTransaction(data) {
   const res = await fetch(`${API_BASE}/api/analyze`, {
